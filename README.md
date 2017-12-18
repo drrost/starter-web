@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
-2017 Git.Train
+2017 Git.Train, all rights reserved.
